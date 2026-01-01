@@ -30,6 +30,6 @@ I’m a software developer focused on building impactful digital experiences acr
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-## 📮 Find Me
+## Find Me
 **Email:** zainnalthamer@gmail.com  
 **LinkedIn:** www.linkedin.com/in/zainab-abdulhusain
